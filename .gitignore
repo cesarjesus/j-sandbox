@@ -1,0 +1,14 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Netbeans 
+nbactions.xml
+nb-configuration.xml
+
+# Directory 
+*/target/*
+
